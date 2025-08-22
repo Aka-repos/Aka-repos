@@ -25,7 +25,7 @@ Software engineer and full-stack developer (web & mobile). I build stable, measu
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP"></code>
-<code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart"></code>
+<code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart"></code><code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/javascript/typescript.svg" title="TypeScript"></code>
 
 #### Web & Mobile
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React / React Native"></code>
