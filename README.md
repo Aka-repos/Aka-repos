@@ -1,6 +1,6 @@
 # 👋 Hola, soy **Aka-repos**  
 
-> Full-stack developer (web & mobile). Me enfoco en construir productos estables, medibles y escalables. Trabajo con JavaScript, Java, Python, PHP y Dart; frameworks como React/Flutter; bases de datos SQL/MongoDB; y despliegues en AWS/Azure con buenas prácticas DevOps.
+Software engineer and full-stack developer (web & mobile). I build stable, measurable, and scalable products. I work with JavaScript, Java, Python, PHP, and Dart; use React (library) and Flutter (framework) for UIs; SQL and MongoDB for data; and deploy on AWS/Azure following DevOps best practices (CI/CD, observability, and security). Always open to learning and collaborating with technologies I haven’t mastered yet.
 
 ---
 
@@ -16,8 +16,6 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-repos&layout=compact&theme=tokyonight&hide_border=true)
-
-> 💡 Si activas **Profile → Settings → _Include private contributions_**, tus contribuciones privadas también suman a las gráficas.
 
 ---
 
@@ -49,13 +47,11 @@
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"></code>
 
 ---
-
-### 🚀 Un poco de mí
-- 🧩 Full-stack con foco en rendimiento, DX y calidad (testing, CI/CD).
-- 🧪 Me gusta medir: métricas, logging y trazas desde el día 1.
-- 🛡️ Seguridad y buenas prácticas (auth, roles, hardening, secrets).
-- 📦 Entregas continuas en cloud (AWS/Azure) con automatización.
-
+### 🚀 About me
+- 🧩 Full-stack focused on performance, DX, and quality (testing, CI/CD).
+- 🧪 I like to measure: metrics, logging, and tracing from day one.
+- 🛡️ Security and best practices (auth, roles, hardening, secrets).
+- 📦 Continuous delivery in the cloud (AWS/Azure) with automation.
 ---
 
 ### 📬 Contacto & Links
