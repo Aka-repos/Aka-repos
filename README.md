@@ -1,4 +1,3 @@
-# 👋 Hola, soy **Aka-repos**  
 
 Software engineer and full-stack developer (web & mobile). I build stable, measurable, and scalable products. I work with JavaScript, Java, Python, PHP, and Dart; use React and Flutter for UIs; SQL and MongoDB for data; and deploy on AWS/Azure following DevOps best practices (CI/CD, observability, and security). Always open to learning and collaborating with technologies I haven’t mastered yet.
 
