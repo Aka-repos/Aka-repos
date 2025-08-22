@@ -35,6 +35,8 @@ Software engineer and full-stack developer (web & mobile). I build stable, measu
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="Node.js"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" title="npm"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" title="Apache Tomcat"></code>
+<code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" title="Next.js"></code>
+<code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" title="Vue.js"></code>
 
 #### Databases
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL"></code>
