@@ -53,10 +53,9 @@ Software engineer and full-stack developer (web & mobile). I build stable, measu
 - 🛡️ Security and best practices (auth, roles, hardening, secrets).
 - 📦 Continuous delivery in the cloud (AWS/Azure) with automation.
 ---
-
-### 📬 Contacto & Links
-- 💼 Portafolio / proyectos: _coming soon_
-- 📧 Escríbeme por GitHub Issues o Discussions
+### 📬 Contact & Links
+- 💼 Portfolio / projects: _coming soon_
+- 📧 Message me via GitHub Issues or Discussions
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aka-repos&style=flat&label=Profile%20views" alt="Profile views" />
