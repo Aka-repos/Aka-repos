@@ -45,7 +45,6 @@
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker"></code>
-<code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" title="Kubernetes"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux"></code>
 <code><img width="38" height="38" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"></code>
 
