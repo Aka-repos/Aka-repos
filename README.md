@@ -14,8 +14,6 @@ Software engineer and full-stack developer (web & mobile). I build stable, measu
   <img height="165" src="https://streak-stats.demolab.com?user=Aka-repos&theme=tokyonight&hide_border=true" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-repos&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 🧰 Languages & Tools
