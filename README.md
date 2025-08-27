@@ -4,7 +4,7 @@ Software engineer and full-stack developer (web & mobile). I build stable, measu
 ---
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aka-repos&theme=tokyonight&row=2&column=4&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+### [![trophy](https://github-profile-trophy.vercel.app/?username=Aka-repos&theme=tokyonight&row=2&column=4&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
