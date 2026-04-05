@@ -58,7 +58,7 @@ Software engineer and full-stack developer (web & mobile). I build stable, measu
 ### 📬 Contact & Links
 - 💼 Portfolio / projects: _coming soon_
 - 📧 Message me via GitHub Issues or Discussions 
-1234567ayvc@gmail.com
+  yahir.software@gmail.com
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aka-repos&style=flat&label=Profile%20views" alt="Profile views" />
