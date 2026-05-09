@@ -16,46 +16,44 @@ Software engineer and full-stack developer (web & mobile). I build stable, measu
 
 ---
 
-
 ### 🧰 Languages & Tools
 
 #### 💻 Programming
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" title="JavaScript" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" title="Dart" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" width="45" height="45"/>
+<p>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="45" height="45"/>
 </p>
 
 #### 🌐 Web & Mobile
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="React" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="Node.js" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" title="npm" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" title="Tomcat" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" title="Next.js" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" title="Vue.js" width="45" height="45"/>
+<p>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="45" height="45"/>
 </p>
 
 #### 🗄️ Databases
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB" width="45" height="45"/>
+<p>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45" height="45"/>
 </p>
 
 #### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" title="Linux" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="45" height="45"/>
+<p>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
 </p>
-
 ---
 ### 🚀 About me
 - 🧩 Full-stack focused on performance, DX, and quality (testing, CI/CD).
